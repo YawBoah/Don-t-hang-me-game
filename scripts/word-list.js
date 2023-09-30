@@ -1,5 +1,201 @@
 const wordList = [
     {
+        word: "science",
+        hint: "The systematic study of the structure and behavior of the physical and natural world."
+    },
+    {
+        word: "experiment",
+        hint: "A test or investigation to discover something new or demonstrate a known fact."
+    },
+    {
+        word: "observation",
+        hint: "The process of using your senses to gather information about the world around you."
+    },
+    {
+        word: "hypothesis",
+        hint: "An educated guess or prediction about what might happen in an experiment."
+    },
+    {
+        word: "variables",
+        hint: "Factors that can change or affect the outcome of an experiment."
+    },
+    {
+        word: "data",
+        hint: "Facts, figures, or information collected during an experiment or study."
+    },
+    {
+        word: "scientist",
+        hint: "A person who conducts scientific research and investigations."
+    },
+    {
+        word: "biology",
+        hint: "The study of living organisms and their interactions with each other and their environment."
+    },
+    {
+        word: "chemistry",
+        hint: "The study of matter, its properties, composition, and changes it undergoes."
+    },
+    {
+        word: "physics",
+        hint: "The study of the fundamental forces and laws that govern the universe."
+    },
+    {
+        word: "astronomy",
+        hint: "The scientific study of celestial objects and phenomena, such as stars and planets."
+    },
+    {
+        word: "geology",
+        hint: "The study of the Earth's structure, composition, and processes, including rocks and minerals."
+    },
+    {
+        word: "ecology",
+        hint: "The study of how organisms interact with each other and their environment."
+    },
+    {
+        word: "microscope",
+        hint: "A tool that allows you to see very small objects or organisms that are not visible to the naked eye."
+    },
+    {
+        word: "magnet",
+        hint: "An object that attracts certain materials like iron and exerts a magnetic force."
+    },
+    {
+        word: "electricity",
+        hint: "A form of energy resulting from the existence of charged particles, such as electrons."
+    },
+    {
+        word: "gravity",
+        hint: "The force that pulls objects toward one another; it is what keeps us on the Earth."
+    },
+    {
+        word: "solar system",
+        hint: "A group of planets and other celestial objects that orbit a star, like our sun."
+    },
+    {
+        word: "evaporation",
+        hint: "The process by which a liquid turns into vapor or gas, often due to heating."
+    },
+    {
+        word: "condensation",
+        hint: "The process by which a gas or vapor turns into a liquid."
+    },
+    {
+        word: "solid",
+        hint: "A state of matter with a fixed shape and volume, like ice or wood."
+    },
+    {
+        word: "liquid",
+        hint: "A state of matter with a definite volume but no fixed shape, like water."
+    },
+    {
+        word: "gas",
+        hint: "A state of matter with no definite shape or volume, like air."
+    },
+    {
+        word: "temperature",
+        hint: "A measure of how hot or cold something is, typically measured in degrees Celsius or Fahrenheit."
+    },
+    {
+        word: "gravity",
+        hint: "The force that pulls objects toward one another; it is what keeps us on the Earth."
+    },
+    {
+        word: "moon",
+        hint: "A natural satellite that orbits a planet, like the Earth's moon."
+    },
+    {
+        word: "sun",
+        hint: "The star at the center of our solar system, which provides heat and light to the planets."
+    },
+    {
+        word: "ocean",
+        hint: "A large body of saltwater that covers most of the Earth's surface."
+    },
+    {
+        word: "planet",
+        hint: "A celestial body that orbits a star and does not produce light of its own."
+    },
+    {
+        word: "rain",
+        hint: "Precipitation in the form of water droplets falling from the sky."
+    },
+    {
+        word: "cloud",
+        hint: "A visible mass of water droplets or ice crystals suspended in the atmosphere."
+    },
+    {
+        word: "volcano",
+        hint: "A mountain or hill with a vent through which lava, rock fragments, hot vapor, and gas are ejected."
+    },
+    {
+        word: "earthquake",
+        hint: "The shaking of the Earth's surface caused by the sudden release of energy in the Earth's crust."
+    },
+    {
+        word: "species",
+        hint: "A group of living organisms that share common characteristics and can reproduce with each other."
+    },
+    {
+        word: "dinosaur",
+        hint: "A group of reptiles that lived millions of years ago and are now extinct."
+    },
+    {
+        word: "fossil",
+        hint: "The remains or traces of ancient plants and animals that have turned into rock over time."
+    },
+    {
+        word: "ecosystem",
+        hint: "A community of living organisms and their interactions with each other and their environment."
+    },
+    {
+        word: "food chain",
+        hint: "A sequence of organisms, each of which serves as a source of food for the next in the chain."
+    },
+    {
+        word: "photosynthesis",
+        hint: "The process by which plants and some other organisms convert light energy into chemical energy."
+    },
+    {
+        word: "oxygen",
+        hint: "A colorless, odorless gas essential for life."
+    },
+    {
+        word: "carbon dioxide",
+        hint: "A gas produced by all animals when they breathe out and by the burning of fossil fuels."
+    },
+    {
+        word: "rainforest",
+        hint: "A dense forest characterized by high rainfall and biodiversity."
+    },
+    {
+        word: "climate",
+        hint: "The long-term pattern of weather conditions in a particular region."
+    },
+    {
+        word: "pollution",
+        hint: "The presence or introduction of harmful substances into the environment."
+    },
+    {
+        word: "conservation",
+        hint: "The protection and preservation of natural resources and wildlife."
+    },
+    {
+        word: "solar energy",
+        hint: "Energy from the sun that can be harnessed for various purposes, like generating electricity."
+    },
+    {
+        word: "weather",
+        hint: "The day-to-day conditions of the atmosphere, including temperature, humidity, and precipitation."
+    },
+    {
+        word: "star",
+        hint: "A massive, luminous sphere of plasma held together by gravity and undergoing nuclear fusion."
+    },
+    {
+        word: "planetarium",
+        hint: "A place where you can learn about stars, planets, and the universe through visual displays."
+    },
+    {
         word: "computer",
         hint: "A machine that can process and store information."
     },
