@@ -1,5 +1,85 @@
 const wordList = [
     {
+        word: "addition",
+        hint: "Combining numbers to find the total."
+    },
+    {
+        word: "subtraction",
+        hint: "Taking one number away from another."
+    },
+    {
+        word: "multiplication",
+        hint: "Repeating addition to find the total."
+    },
+    {
+        word: "division",
+        hint: "Sharing or grouping numbers into equal parts."
+    },
+    {
+        word: "number",
+        hint: "A symbol that represents a quantity or value."
+    },
+    {
+        word: "counting",
+        hint: "Saying numbers in order, one after another."
+    },
+    {
+        word: "equal",
+        hint: "Having the same value or being the same in quantity."
+    },
+    {
+        word: "greater",
+        hint: "Bigger or larger in quantity or value."
+    },
+    {
+        word: "less",
+        hint: "Smaller or lower in quantity or value."
+    },
+    {
+        word: "shape",
+        hint: "The form or outline of an object, like a circle or square."
+    },
+    {
+        word: "triangle",
+        hint: "A shape with three sides and three angles."
+    },
+    {
+        word: "rectangle",
+        hint: "A shape with four sides and four right angles."
+    },
+    {
+        word: "circle",
+        hint: "A round shape with no corners or edges."
+    },
+    {
+        word: "square",
+        hint: "A shape with four equal sides and four right angles."
+    },
+    {
+        word: "fraction",
+        hint: "A part of a whole, represented as a numerator over a denominator."
+    },
+    {
+        word: "percentage",
+        hint: "A way to express a part of a whole as a fraction of 100."
+    },
+    {
+        word: "time",
+        hint: "Measurement of when events happen, using hours and minutes."
+    },
+    {
+        word: "clock",
+        hint: "A device used to tell time with hour and minute hands."
+    },
+    {
+        word: "money",
+        hint: "Currency or coins used to buy things."
+    },
+    {
+        word: "dollar",
+        hint: "A unit of currency in many countries, like the United States."
+    },
+    {
         word: "science",
         hint: "The systematic study of the structure and behavior of the physical and natural world."
     },
