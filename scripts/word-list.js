@@ -1,5 +1,193 @@
 const wordList = [
     {
+        word: "computer",
+        hint: "A machine that can process and store information."
+    },
+    {
+        word: "keyboard",
+        hint: "A device with buttons used to input text and commands into a computer."
+    },
+    {
+        word: "mouse",
+        hint: "A pointing device used to interact with a computer's graphical user interface."
+    },
+    {
+        word: "screen",
+        hint: "The display part of a computer monitor where you can see information."
+    },
+    {
+        word: "software",
+        hint: "Programs and applications that run on a computer to perform tasks."
+    },
+    {
+        word: "hardware",
+        hint: "The physical components of a computer, like the monitor, keyboard, and CPU."
+    },
+    {
+        word: "internet",
+        hint: "A global network of computers that are connected and can share information."
+    },
+    {
+        word: "website",
+        hint: "A collection of web pages with text, images, and links that you can visit on the internet."
+    },
+    {
+        word: "email",
+        hint: "A way to send messages and letters to people using the internet."
+    },
+    {
+        word: "password",
+        hint: "A secret code that you use to protect your computer or online accounts."
+    },
+    {
+        word: "robot",
+        hint: "A machine that can be programmed to do tasks automatically."
+    },
+    {
+        word: "code",
+        hint: "Instructions that tell a computer what to do, like a secret language for computers."
+    },
+    {
+        word: "programmer",
+        hint: "A person who writes code to create computer programs."
+    },
+    {
+        word: "video game",
+        hint: "A fun interactive software that you can play on a computer or game console."
+    },
+    {
+        word: "camera",
+        hint: "A device that takes pictures and videos, often built into phones and computers."
+    },
+    {
+        word: "tablet",
+        hint: "A small, portable computer with a touchscreen for browsing the internet and playing games."
+    },
+    {
+        word: "smartphone",
+        hint: "A mobile phone that can do many things, like surfing the web and taking pictures."
+    },
+    {
+        word: "app",
+        hint: "A small software program that you can install on your smartphone or tablet."
+    },
+    {
+        word: "browser",
+        hint: "A program used to explore the internet and view websites, like Chrome or Firefox."
+    },
+    {
+        word: "social media",
+        hint: "Websites and apps where people can connect, share, and communicate online."
+    },
+    {
+        word: "emoji",
+        hint: "Small pictures or symbols used in texting and online messages to express emotions."
+    },
+    {
+        word: "search engine",
+        hint: "A tool like Google that helps you find information on the internet."
+    },
+    {
+        word: "download",
+        hint: "To get a file or program from the internet and save it on your computer or device."
+    },
+    {
+        word: "upload",
+        hint: "To send a file or data from your computer or device to the internet."
+    },
+    {
+        word: "cybersecurity",
+        hint: "The practice of protecting computers, networks, and data from theft or damage."
+    },
+    {
+        word: "virus",
+        hint: "A harmful computer program that can damage your computer and steal your data."
+    },
+    {
+        word: "cloud",
+        hint: "A way to store and access data and programs over the internet, like Google Drive or iCloud."
+    },
+    {
+        word: "emoji",
+        hint: "Small pictures or symbols used in texting and online messages to express emotions."
+    },
+    {
+        word: "tablet",
+        hint: "A small, portable computer with a touchscreen for browsing the internet and playing games."
+    },
+    {
+        word: "smartphone",
+        hint: "A mobile phone that can do many things, like surfing the web and taking pictures."
+    },
+    {
+        word: "app",
+        hint: "A small software program that you can install on your smartphone or tablet."
+    },
+    {
+        word: "browser",
+        hint: "A program used to explore the internet and view websites, like Chrome or Firefox."
+    },
+    {
+        word: "social media",
+        hint: "Websites and apps where people can connect, share, and communicate online."
+    },
+    {
+        word: "emoji",
+        hint: "Small pictures or symbols used in texting and online messages to express emotions."
+    },
+    {
+        word: "search engine",
+        hint: "A tool like Google that helps you find information on the internet."
+    },
+    {
+        word: "download",
+        hint: "To get a file or program from the internet and save it on your computer or device."
+    },
+    {
+        word: "upload",
+        hint: "To send a file or data from your computer or device to the internet."
+    },
+    {
+        word: "cybersecurity",
+        hint: "The practice of protecting computers, networks, and data from theft or damage."
+    },
+    {
+        word: "virus",
+        hint: "A harmful computer program that can damage your computer and steal your data."
+    },
+    {
+        word: "cloud",
+        hint: "A way to store and access data and programs over the internet, like Google Drive or iCloud."
+    },
+    {
+        word: "programming",
+        hint: "The process of creating computer programs using code."
+    },
+    {
+        word: "algorithm",
+        hint: "A step-by-step set of instructions for solving a problem or performing a task."
+    },
+    {
+        word: "URL",
+        hint: "A web address that tells your browser where to find a website on the internet."
+    },
+    {
+        word: "online",
+        hint: "Connected to or available on the internet."
+    },
+    {
+        word: "offline",
+        hint: "Not connected to the internet; working without an internet connection."
+    },
+    {
+        word: "email",
+        hint: "A way to send messages and letters to people using the internet."
+    },
+    {
+        word: "password",
+        hint: "A secret code that you use to protect your computer or online accounts."
+    },
+    {
         word: "guitar",
         hint: "A musical instrument with strings."
     },
