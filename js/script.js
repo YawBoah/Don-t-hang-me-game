@@ -69,5 +69,6 @@ for (let i = 97; i <= 122; i++) {
     button.addEventListener("click", (e) => initGame(e.target, String.fromCharCode(i)));
 }
 
+
 getRandomWord();
 playAgainBtn.addEventListener("click", getRandomWord);
