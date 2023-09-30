@@ -82,7 +82,7 @@ body {
     justify-content: center;
 }
 
-:where(.game-modal, .keyboard) button {
+:where(.game-model, .keyboard) button {
     color: #fff;
     border: none;
     outline: none;
@@ -104,11 +104,11 @@ body {
     opacity: 0.6;
 }
 
-:where(.game-modal, .keyboard) button:hover {
+:where(.game-model, .keyboard) button:hover {
     background: #8286c9;
 }
 
-.game-modal {
+.game-model {
     position: fixed;
     top: 0;
     left: 0;
@@ -125,13 +125,13 @@ body {
     transition: opacity 0.4s ease;
 }
 
-.game-modal.show {
+.game-model.show {
     opacity: 1;
     pointer-events: auto;
     transition: opacity 0.4s 0.4s ease;
 }
 
-.game-modal .content {
+.game-model .content {
     padding: 30px;
     max-width: 420px;
     width: 100%;
@@ -141,31 +141,31 @@ body {
     box-shadow: 0 10px 20px rgba(0,0,0,0.1);
 }
 
-.game-modal img {
+.game-model img {
     max-width: 130px;
     margin-bottom: 20px;
 }
 
-.game-modal img[src="images/victory.gif"] {
+.game-model img[src="images/victory.gif"] {
     margin-left: -10px;
 }
 
-.game-modal h4 {
+.game-model h4 {
     font-size: 1.53rem;
 }
 
-.game-modal p {
+.game-model p {
     font-size: 1.15rem;
     margin: 15px 0 30px;
     font-weight: 500;
 }
 
-.game-modal p b {
+.game-model p b {
     color: #5E63BA;
     font-weight: 600;
 }
 
-.game-modal button {
+.game-model button {
     padding: 12px 23px;
 }
 
@@ -198,19 +198,19 @@ body {
         margin: -35px 0 25px;
     }
 
-    .game-modal img {
+    .game-model img {
         max-width: 120px;
     }
 
-    .game-modal h4 {
+    .game-model h4 {
         font-size: 1.45rem;
     }
 
-    .game-modal p {
+    .game-model p {
         font-size: 1.1rem;
     }
     
-    .game-modal button {
+    .game-model button {
         padding: 10px 18px;
     }
 }
