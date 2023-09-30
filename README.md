@@ -3,6 +3,8 @@
 
 ![image](https://github.com/YawBoah/Don-t-hang-me-game/assets/126890146/9befc289-0fdf-4b0c-8962-a0768401b26c)
 
+![image](https://github.com/YawBoah/Don-t-hang-me-game/assets/126890146/37deaf79-ed42-4008-a92b-bedc54fbd28e)
+
 
 ## Table of Contents
 - [Introduction](#introduction)
