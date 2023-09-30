@@ -56,19 +56,16 @@ body {
     text-transform: uppercase;
     border-bottom: 3px solid #000;
 }
-
 .word-display .letter.guessed {
     margin: -40px 0 35px;
     border-color: transparent;
 }
-
 .game-box h4 {
     text-align: center;
     font-size: 1.1rem;
     font-weight: 500;
     margin-bottom: 15px;
 }
-
 .game-box h4 b {
     font-weight: 600;
 }
@@ -85,7 +82,7 @@ body {
     justify-content: center;
 }
 
-:where(.game-model, .keyboard) button {
+:where(.game-modal, .keyboard) button {
     color: #fff;
     border: none;
     outline: none;
@@ -107,11 +104,11 @@ body {
     opacity: 0.6;
 }
 
-:where(.game-model, .keyboard) button:hover {
+:where(.game-modal, .keyboard) button:hover {
     background: #8286c9;
 }
 
-.game-model {
+.game-modal {
     position: fixed;
     top: 0;
     left: 0;
@@ -128,13 +125,13 @@ body {
     transition: opacity 0.4s ease;
 }
 
-.game-model.show {
+.game-modal.show {
     opacity: 1;
     pointer-events: auto;
     transition: opacity 0.4s 0.4s ease;
 }
 
-.game-model .content {
+.game-modal .content {
     padding: 30px;
     max-width: 420px;
     width: 100%;
@@ -144,33 +141,34 @@ body {
     box-shadow: 0 10px 20px rgba(0,0,0,0.1);
 }
 
-.game-model img {
+.game-modal img {
     max-width: 130px;
     margin-bottom: 20px;
 }
 
-.game-model img[src="images/victory.gif"] {
+.game-modal img[src="images/victory.gif"] {
     margin-left: -10px;
 }
 
-.game-model h4 {
+.game-modal h4 {
     font-size: 1.53rem;
 }
 
-.game-model p {
+.game-modal p {
     font-size: 1.15rem;
     margin: 15px 0 30px;
     font-weight: 500;
 }
 
-.game-model p b {
+.game-modal p b {
     color: #5E63BA;
     font-weight: 600;
 }
 
-.game-model button {
+.game-modal button {
     padding: 12px 23px;
 }
+
 
 @media (max-width: 782px) {
     .container {
@@ -182,7 +180,7 @@ body {
     .hangman-box img {
         max-width: 200px;
     }
-
+    
     .hangman-box h1 {
         display: none;
     }
@@ -200,19 +198,19 @@ body {
         margin: -35px 0 25px;
     }
 
-    .game-model img {
+    .game-modal img {
         max-width: 120px;
     }
-    
-    .game-model h4 {
+
+    .game-modal h4 {
         font-size: 1.45rem;
     }
 
-    .game-model p {
+    .game-modal p {
         font-size: 1.1rem;
     }
     
-    .game-model button {
+    .game-modal button {
         padding: 10px 18px;
     }
 }
