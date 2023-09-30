@@ -1,5 +1,85 @@
 const wordList = [
     {
+        word: "earth",
+        hint: "The planet we live on, also called the 'Blue Planet' because of its oceans."
+    },
+    {
+        word: "continent",
+        hint: "A large landmass on Earth, like Asia, Africa, or North America."
+    },
+    {
+        word: "ocean",
+        hint: "A huge body of saltwater, like the Atlantic Ocean or the Pacific Ocean."
+    },
+    {
+        word: "country",
+        hint: "A specific area of land with its own government, like the United States or France."
+    },
+    {
+        word: "capital",
+        hint: "The main city of a country, where the government is located."
+    },
+    {
+        word: "river",
+        hint: "A long, flowing body of water, like the Amazon River or the Nile River."
+    },
+    {
+        word: "mountain",
+        hint: "A tall landform that rises high above the surrounding land, like Mount Everest."
+    },
+    {
+        word: "lake",
+        hint: "A large area of water surrounded by land, like Lake Superior."
+    },
+    {
+        word: "island",
+        hint: "A piece of land completely surrounded by water, like Hawaii."
+    },
+    {
+        word: "desert",
+        hint: "A very dry, sandy area with little or no rainfall, like the Sahara Desert."
+    },
+    {
+        word: "forest",
+        hint: "A large area covered chiefly with trees and undergrowth, like the Amazon Rainforest."
+    },
+    {
+        word: "volcano",
+        hint: "A mountain that can erupt with lava, ash, and gases."
+    },
+    {
+        word: "climate",
+        hint: "The typical weather conditions in an area over a long period of time."
+    },
+    {
+        word: "island",
+        hint: "A piece of land completely surrounded by water, like Bali."
+    },
+    {
+        word: "equator",
+        hint: "An imaginary line that divides Earth into the Northern and Southern Hemispheres."
+    },
+    {
+        word: "hemisphere",
+        hint: "Half of Earth, either the Northern or Southern part."
+    },
+    {
+        word: "compass",
+        hint: "A tool that shows direction, with points like north, south, east, and west."
+    },
+    {
+        word: "ocean",
+        hint: "A vast body of saltwater, like the Indian Ocean."
+    },
+    {
+        word: "beach",
+        hint: "A sandy or pebbly area along the shore of an ocean or lake."
+    },
+    {
+        word: "island",
+        hint: "A piece of land surrounded by water, like Japan."
+    },
+    {
         word: "addition",
         hint: "Combining numbers to find the total."
     },
