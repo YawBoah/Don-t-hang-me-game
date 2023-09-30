@@ -1,4 +1,6 @@
-# Hangman Game
+# Don't Hang Me Game
+![image](https://github.com/YawBoah/Don-t-hang-me-game/assets/126890146/1379e210-4931-4bd7-9fa9-fde55371e291)
+
 
 ## Table of Contents
 - [Introduction](#introduction)
