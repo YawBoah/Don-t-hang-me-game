@@ -1,9 +1,12 @@
 # Don't Hang Me Game
-![image](https://github.com/YawBoah/Don-t-hang-me-game/assets/126890146/1379e210-4931-4bd7-9fa9-fde55371e291)
+- ![Screenshot 2023-10-01 145512](https://github.com/YawBoah/Don-t-hang-me-game/assets/126890146/9110ba0a-7e2b-44f0-8019-d2d09c00782b)
 
-![image](https://github.com/YawBoah/Don-t-hang-me-game/assets/126890146/9befc289-0fdf-4b0c-8962-a0768401b26c)
 
-![image](https://github.com/YawBoah/Don-t-hang-me-game/assets/126890146/37deaf79-ed42-4008-a92b-bedc54fbd28e)
+- ![Screenshot 2023-10-01 145534](https://github.com/YawBoah/Don-t-hang-me-game/assets/126890146/6b54003e-9efd-4cc1-a351-c50695d7b31a)
+
+
+- ![image](https://github.com/YawBoah/Don-t-hang-me-game/assets/126890146/7c5b8e67-d84e-44b1-91a3-9eec0e6f00eb)
+
 
 
 ## Table of Contents
