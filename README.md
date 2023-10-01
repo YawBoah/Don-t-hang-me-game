@@ -17,7 +17,7 @@
 
 ## Introduction
 
-The Hangman Game is a classic word-guessing game where players try to guess a hidden word one letter at a time. It's a fun and challenging game that tests your vocabulary and word-guessing skills. This version of the game is designed to be played in a web browser and is implemented using HTML, CSS, and JavaScript.
+The Don't Hang Me Game is a classic word-guessing game where players try to guess a hidden word one letter at a time. It's a fun and challenging game that tests your vocabulary and word-guessing skills. This version of the game is designed to be played in a web browser and is implemented using HTML, CSS, and JavaScript.
 
 ## Features
 
@@ -63,11 +63,11 @@ The Hangman Game is a classic word-guessing game where players try to guess a hi
 
 ## Contributing
 
-Contributions to this Hangman game are welcome! If you have any ideas for improvements or new features, please open an issue or create a pull request. Your contributions can help make this game even better.
+Contributions to this Don't Hang Me game are welcome! If you have any ideas for improvements or new features, please open an issue or create a pull request. Your contributions can help make this game even better.
 
 ## License
 
-This Hangman Game is released under the [MIT License](LICENSE).
+This Don't Hang Me Game is released under the [MIT License](LICENSE).
 
 ---
 
