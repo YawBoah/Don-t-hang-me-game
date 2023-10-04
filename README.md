@@ -64,7 +64,7 @@ The Don't Hang Me Game is a classic word-guessing game where players try to gues
 
 ## Contributing
 
-Contributions to this Don't Hang Me game are welcome! If you have any ideas for improvements or new features, please open an issue or create a pull request. Your contributions can help make this game even better.
+Contributions to this Don't Hang Me game are welcome! If you have any ideas for improvements or new features, please open an issue or create a pull request. Your contributions can help make this wonderful game even better.
 
 ## License
 
