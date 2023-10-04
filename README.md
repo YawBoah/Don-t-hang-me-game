@@ -7,8 +7,6 @@
 
 - ![image](https://github.com/YawBoah/Don-t-hang-me-game/assets/126890146/7c5b8e67-d84e-44b1-91a3-9eec0e6f00eb)
 
-
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
