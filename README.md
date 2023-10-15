@@ -56,7 +56,7 @@ The Don't Hang Me Game is a classic word-guessing game where players try to gues
 
 🎯 **Challenge Friends**: Compete with friends, share your scores, and see who the ultimate word sleuth is.
 
-[![Play Now](link-to-play-game) 
+[Play Now](https://yawboah.github.io/Don-t-hang-me-game/) 
 
 Don't miss out on the excitement! Click the "Play Now" button above, and embark on a word adventure you won't forget. Can you guess them all without getting "hung"?
 
