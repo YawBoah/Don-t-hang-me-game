@@ -1,4 +1,7 @@
 # Don't Hang Me Game 🎮
+![GitHub repo size](https://img.shields.io/github/repo-size/YawBoah/Don-t-hang-me-game)
+![GitHub issues](https://img.shields.io/github/issues/YawBoah/Don-t-hang-me-game)
+![GitHub stars](https://img.shields.io/github/stars/YawBoah/Don-t-hang-me-game)
 
 Welcome to the classic word-guessing adventure of "Don't Hang Me"! 🚀 Test your vocabulary and word-guessing skills in this web-based game implemented using HTML, CSS, and JavaScript.
 
